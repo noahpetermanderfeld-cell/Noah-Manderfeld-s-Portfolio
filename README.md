@@ -11,6 +11,7 @@ Snap Shine is a dual-function desk lamp designed with dorm life in mind. Created
 Snap Shine features a detachable lamp head that transforms into a handheld flashlight, allowing users to move freely and complete tasks discreetly. Whether you're studying late, grabbing something from across the room, or navigating a dark dorm, Snap Shine offers flexibility and comfort in shared living spaces.
 
 **Design & Development**
+
 This project was developed in a small team with a focus on both practicality and manufacturability. Each week, we applied new concepts from class to refine our design:
 - Injection molding principles for scalable production
 - Engineering drawings and dimensioning for precise communication
